@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-FishingGame-1.0";
 const contentToCache = [
-    "Build/0906_portfolio.loader.js",
-    "Build/0906_portfolio.framework.js",
-    "Build/0906_portfolio.data",
-    "Build/0906_portfolio.wasm",
+    "Build/FishingGame.loader.js",
+    "Build/FishingGame.framework.js",
+    "Build/FishingGame.data",
+    "Build/FishingGame.wasm",
     "TemplateData/style.css"
 
 ];
